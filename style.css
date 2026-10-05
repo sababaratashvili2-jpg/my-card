@@ -1,0 +1,19 @@
+body {
+  background-color: lightgray;
+}
+
+.profession {
+  color: gray;
+  background-color: aquamarine;
+  font-size: medium;
+  font-weight: 200;
+  text-align: center;
+}
+
+#name {
+  color: aqua;
+}
+
+button:hover {
+  background-color: gray;
+}
